@@ -6,7 +6,7 @@ A website for a tour agency
 
 * Tech used: 
   * HTML5 
-  * CSS3
+  * CSS3/SASS
 
 The site uses various features available in CSS to get a modern look, animated effects and also to make the page responsive.
 
