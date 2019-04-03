@@ -9,6 +9,16 @@
   opacity: 0;
   visibility: hidden;
   transition: all .3s;
+  
+  //BROWSER COMPATIBILITY (backdrop-filter just works in safari atm)
+  
+  @supports(-webkit-backdrop-filter: blur(10px)) or (backdrop-filter: blur(10px)) {
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+    background-color: rgba($color-black, .3);
+  }
+
+  
 
   &__content {
     @include absCenter; 
@@ -26,6 +36,7 @@
   &__left {
     width: 33.33333%;
     display: table-cell;
+    
   }
   
   &__right {  
