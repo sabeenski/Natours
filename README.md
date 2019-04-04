@@ -14,4 +14,3 @@ The site uses various features available in CSS to get a modern look, animated e
 
 You can visit the site here: https://nature-tours.netlify.com/
 
-*This project was built as a part of Advanced CSS and SASS course by JONAS SCHMEDTMANN.* 
