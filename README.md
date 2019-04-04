@@ -10,6 +10,11 @@ The site uses various features available in CSS to get a modern look, animated e
   * HTML5 
   * CSS3
   * SASS
+ 
+ 
+ 
+![View Demo](https://i.gyazo.com/0ffd808e01137fc3ecdc8d79868acff2.gif)
+
 
 
 You can visit the site here: https://nature-tours.netlify.com/
